@@ -15,6 +15,8 @@
 -   Napravi API so CRUD za todo i za user
 
 biblioteki:
+
+# angular 17
 # expressjs
 -   ova znaes za so e
 
